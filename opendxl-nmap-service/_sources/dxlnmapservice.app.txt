@@ -1,7 +1,0 @@
-dxlnmapservice.app module
-=========================
-
-.. automodule:: dxlnmapservice.app
-    :members:
-    :undoc-members:
-    :show-inheritance:
